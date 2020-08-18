@@ -12,7 +12,7 @@ int main(int argc, char* args[])
 	int currentTime = 0;
 	float deltaTime = 0.0f;
 
-	float fps = 30.0f;
+	float fps = 60.0f;
 	float frameTime = 1000.0f / fps;
 
 	Cronway cronway(720, 180);
